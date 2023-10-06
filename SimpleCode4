@@ -1,4 +1,4 @@
-
+// Thank you 
 
 public class SumPrimeIndices {
 	 public static boolean isPrime(int num) {
